@@ -128,6 +128,8 @@
 						'pt-BR:portuguese-brazilian' => 'Portuguese (Brazil)',
 						'hr-HR' => 'Croatian (Croatia)',
 						'ar-EG:arabic' => 'Arabic (Egypt)'
+	                                         'vi:vietnammese' => 'Vietnamese'
+	
 					),
 					current_language_code() . ':' . current_language(), array('class' => 'form-control input-sm'));
 					?>
